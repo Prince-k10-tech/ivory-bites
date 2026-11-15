@@ -1,0 +1,15 @@
+# Netlify / Cloudflare Pages redirects
+/index.html  /  301
+/restaurant  /menu.html  301
+/food  /menu.html  301
+/restaurant-menu  /menu.html  301
+/location  /contact.html  301
+/contact-us  /contact.html  301
+/bakery-ile-ife  /bakery.html  301
+/home  /  301
+/about  /about.html  200
+/menu  /menu.html  200
+/bakery  /bakery.html  200
+/gallery  /gallery.html  200
+/reviews  /reviews.html  200
+/contact  /contact.html  200

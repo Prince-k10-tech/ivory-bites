@@ -1,0 +1,31 @@
+{
+  "name": "IvoryBites Restaurant and Bakery",
+  "short_name": "IvoryBites",
+  "description": "Restaurant, supermarket and bakery on the Ibadan\u2013Ife Road, Ile-Ife, Osun State.",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "lang": "en-NG",
+  "background_color": "#FAF8F3",
+  "theme_color": "#101A52",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

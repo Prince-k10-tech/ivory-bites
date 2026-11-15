@@ -1,0 +1,3 @@
+# STAGING / DEMO: crawling is blocked until config.json site.production is set to true.
+User-agent: *
+Disallow: /
